@@ -1,0 +1,27 @@
+p{
+    color:green;
+    font-size: 15px;
+    font-family: Arial;
+}
+body{
+    color:blue;
+    border-style: solid;
+    //background-color: yellow;
+    background-image: url("leao.jpg");
+    background-repeat: no-repeat;
+    background-position: center ; 
+    background-attachment: fixed ;
+    
+}
+p.cor-one{
+    color:violet;
+}
+p.cor-two{
+    color: aqua;
+}
+.cor-pink{
+    color:pink;
+}
+#meuId{
+    color:chocolate;
+}
